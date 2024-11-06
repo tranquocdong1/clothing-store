@@ -20,6 +20,7 @@ router.post('/', async (req, res) => {
     description: req.body.description,
     price: req.body.price,
     imageUrl: req.body.imageUrl,
+    quantity: req.body.quantity,
   });
 
   try {
@@ -35,7 +36,13 @@ router.put('/:id', async (req, res) => {
   try {
     const product = await Product.findByIdAndUpdate(
       req.params.id,
-      req.body,
+      {
+        name: req.body.name,
+        description: req.body.description,
+        price: req.body.price,
+        imageUrl: req.body.imageUrl,
+        quantity: req.body.quantity, // Cập nhật quantity
+      },
       { new: true }
     );
     res.json(product);
