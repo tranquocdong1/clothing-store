@@ -3,70 +3,70 @@
     "name": "Áo thun nam",
     "description": "Áo thun 100% cotton thoáng mát, phù hợp cho mọi hoạt động.",
     "price": 250000,
-    "imageUrl": "https://example.com/images/ao-thun-nam.jpg",
+    "imageUrl": "Rectangle 31.png",
     "quantity": 10
   },
   {
     "name": "Quần jeans nữ",
     "description": "Quần jeans dáng ôm, co giãn tốt, mang lại sự thoải mái suốt cả ngày.",
     "price": 450000,
-    "imageUrl": "https://example.com/images/quan-jeans-nu.jpg",
+    "imageUrl": "jean.jfif",
     "quantity": 8
   },
   {
     "name": "Đồng hồ thể thao",
     "description": "Đồng hồ thể thao đa chức năng, chịu nước và có tính năng bấm giờ.",
     "price": 1200000,
-    "imageUrl": "https://example.com/images/dong-ho-the-thao.jpg",
+    "imageUrl": "watch.jfif",
     "quantity": 5
   },
   {
     "name": "Giày sneaker trắng",
     "description": "Giày sneaker phong cách trẻ trung, dễ phối đồ và êm ái khi di chuyển.",
     "price": 800000,
-    "imageUrl": "https://example.com/images/giay-sneaker-trang.jpg",
+    "imageUrl": "sneaker.jfif",
     "quantity": 7
   },
   {
     "name": "Balo du lịch",
     "description": "Balo du lịch đa ngăn, dung tích lớn, chất liệu chống nước bền bỉ.",
     "price": 600000,
-    "imageUrl": "https://example.com/images/balo-du-lich.jpg",
+    "imageUrl": "balo.jfif",
     "quantity": 4
   },
   {
     "name": "Áo khoác gió",
     "description": "Áo khoác gió nhẹ, có mũ trùm, phù hợp cho những ngày se lạnh.",
     "price": 550000,
-    "imageUrl": "https://example.com/images/ao-khoac-gio.jpg",
+    "imageUrl": "aokhoac.jfif",
     "quantity": 6
   },
   {
     "name": "Kính râm thời trang",
     "description": "Kính râm chống tia UV, thiết kế hiện đại, phù hợp cho mọi giới tính.",
     "price": 300000,
-    "imageUrl": "https://example.com/images/kinh-ram.jpg",
+    "imageUrl": "kinh.jfif",
     "quantity": 12
   },
   {
     "name": "Mũ lưỡi trai",
     "description": "Mũ lưỡi trai cá tính, làm từ chất liệu thoáng khí, thích hợp cho mùa hè.",
     "price": 150000,
-    "imageUrl": "https://example.com/images/mu-luoi-trai.jpg",
+    "imageUrl": "muluoitrai.jfif",
     "quantity": 15
   },
   {
     "name": "Túi xách da nữ",
     "description": "Túi xách da thật, sang trọng, có nhiều ngăn nhỏ tiện lợi.",
     "price": 950000,
-    "imageUrl": "https://example.com/images/tui-xach-da.jpg",
+    "imageUrl": "tuixach.jfif",
     "quantity": 3
   },
   {
     "name": "Dép lê",
     "description": "Dép lê cao su mềm mại, chống trơn trượt, thích hợp đi trong nhà hoặc ngoài trời.",
     "price": 100000,
-    "imageUrl": "https://example.com/images/dep-le.jpg",
+    "imageUrl": "deple.jfif",
     "quantity": 20
   }
 ]
