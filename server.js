@@ -34,12 +34,3 @@ mongoose.connect(process.env.MONGODB_URI, {
   console.error('Error connecting to MongoDB:', error);
 });
 
-const path = require('path');
-
-// Serve frontend build khi deploy lên Render
-app.use(express.static(path.join(__dirname, 'client/build')));
-
-// Phục vụ index.html cho tất cả các route không thuộc API
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
-});
